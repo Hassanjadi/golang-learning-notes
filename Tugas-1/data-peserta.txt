@@ -1,0 +1,6 @@
+Data Peserta Bootcamp Digital Skill - Golang Backend Development:
+1. Nama: Hassan Jadi
+2. Email: hassanemail05@gmail.com
+3. Sistem Operasi yang digunakan: Windows 10
+4. Akun Gitlab/Github: https://github.com/Hassanjadi/
+5. Akun Telegram: Hassanjadi
